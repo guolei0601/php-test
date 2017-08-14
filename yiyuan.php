@@ -1,5 +1,6 @@
 <?php
 
+
  function get_udate($format = 'u', $utimestamp = null)
  {
 	   date_default_timezone_set("PRC");
